@@ -1,7 +1,7 @@
 # QuickBrick Hook Login plugin demo
 
 This repository contains the code for a demo login plugin for quick brick
-[check out this video]()
+[check out this video](https://youtu.be/cJXjmbZtzjs)
 
 ## Set up
 
