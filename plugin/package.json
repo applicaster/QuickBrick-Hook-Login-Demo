@@ -1,0 +1,29 @@
+{
+  "name": "@applicaster/quick-brick-my-demo-login",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "@applicaster/zapp-react-native-bridge": "^2.0.3-rc.28",
+    "@applicaster/zapp-react-native-ui-components": "^2.0.3-rc.31",
+    "react": "16.0.0",
+    "react-native": "0.50.4",
+    "react-native-web": "0.10.0"
+  },
+  "devDependencies": {
+    "@applicaster/zapp-react-native-bridge": "^2.0.3-rc.28",
+    "@applicaster/zapp-react-native-ui-components": "^2.0.3-rc.31",
+    "react": "16.0.0",
+    "react-native": "0.50.4",
+    "react-native-web": "0.10.0"
+  },
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
